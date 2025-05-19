@@ -55,4 +55,4 @@ Este projeto foi inspirado em iniciativas similares de extração de provas educ
 
 - [ENEM_PDF_PARSER](https://github.com/caue-paiva/ENEM_PDF_PARSER) – Projeto de Caue Paiva para extração de questões do ENEM.
   
-- Agradeço também ao [Laboratório de Inteligência de Dados (LID) da UFPA](https://ufpa.br/orgaos/laboratorio-de-inteligencia-de-dados/) pela oportunidade de crescimento acadêmico e incentivo à pesquisa aplicada em Ciência da Computação.
+- Agradeço também ao [Laboratório de Inteligência de Dados (LID) da UFPA](https://ufpa.br/orgaos/laboratorio-de-inteligencia-de-dados/) pela oportunidade de crescimento acadêmico e incentivo à pesquisa aplicada.
