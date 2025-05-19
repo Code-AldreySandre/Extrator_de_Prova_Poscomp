@@ -119,7 +119,7 @@ class PoscompExtractor:
             json.dump([q.to_dict() for q in questoes], f, indent=4, ensure_ascii=False)
         print(f"[+] Questões salvas no arquivo {output_json}")
 
-if __name__ == "__main__":
+if __name__== "__main__":
     prova_nome = "2022"  # nesse aqui, ajuste o nome pra prefixar as imagens da prova
     pdf_file = f"Provas/{prova_nome}/caderno_{prova_nome}.pdf"  # Aqui, ajuste o caminho
 
